@@ -1,2 +1,2 @@
-# WeekOneCodeReactor
+# WeekOneCodeRefactor
 Week one homework assignment
